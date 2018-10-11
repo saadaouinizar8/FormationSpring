@@ -1,0 +1,8 @@
+2018-10-11 11:30:56.650  INFO 9912 --- [main] c.b.MonProjetSpring11LoggingApplication  : Starting MonProjetSpring11LoggingApplication on N-SAADAOUI-PRT with PID 9912 (C:\Users\nizar_saadaoui\Documents\workspace-jenkins\MonProjetSpring-11-Logging\target\classes started by NIZAR_SAADAOUI in C:\Users\nizar_saadaoui\Documents\workspace-jenkins\MonProjetSpring-11-Logging)
+2018-10-11 11:30:56.655  INFO 9912 --- [main] c.b.MonProjetSpring11LoggingApplication  : No active profile set, falling back to default profiles: default
+2018-10-11 11:30:56.710  INFO 9912 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@78e94dcf: startup date [Thu Oct 11 11:30:56 WAT 2018]; root of context hierarchy
+2018-10-11 11:30:57.141  WARN 9912 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static org.slf4j.Logger com.btk.MonProjetSpring11LoggingApplication.logger
+2018-10-11 11:30:57.280  INFO 9912 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-10-11 11:30:57.295  INFO 9912 --- [main] c.b.MonProjetSpring11LoggingApplication  : Started MonProjetSpring11LoggingApplication in 1.083 seconds (JVM running for 1.925)
+2018-10-11 11:30:57.297  INFO 9912 --- [main] c.b.MonProjetSpring11LoggingApplication  : voici mon message d'info
+2018-10-11 11:30:57.299  INFO 9912 --- [Thread-3] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@78e94dcf: startup date [Thu Oct 11 11:30:56 WAT 2018]; root of context hierarchy

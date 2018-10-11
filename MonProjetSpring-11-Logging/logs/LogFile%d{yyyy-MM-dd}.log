@@ -1,0 +1,19 @@
+2018-10-11 11:30:57.302  INFO 9912 --- [Thread-3] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-10-11 11:31:42.046  INFO 3624 --- [main] c.b.MonProjetSpring11LoggingApplication  : Starting MonProjetSpring11LoggingApplication on N-SAADAOUI-PRT with PID 3624 (C:\Users\nizar_saadaoui\Documents\workspace-jenkins\MonProjetSpring-11-Logging\target\classes started by NIZAR_SAADAOUI in C:\Users\nizar_saadaoui\Documents\workspace-jenkins\MonProjetSpring-11-Logging)
+2018-10-11 11:31:42.050  INFO 3624 --- [main] c.b.MonProjetSpring11LoggingApplication  : No active profile set, falling back to default profiles: default
+2018-10-11 11:31:42.095  INFO 3624 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@60dcc9fe: startup date [Thu Oct 11 11:31:42 WAT 2018]; root of context hierarchy
+2018-10-11 11:31:42.519  WARN 3624 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static org.slf4j.Logger com.btk.MonProjetSpring11LoggingApplication.logger
+2018-10-11 11:31:42.666  INFO 3624 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-10-11 11:31:42.683  INFO 3624 --- [main] c.b.MonProjetSpring11LoggingApplication  : Started MonProjetSpring11LoggingApplication in 1.051 seconds (JVM running for 1.879)
+2018-10-11 11:31:42.684  INFO 3624 --- [main] c.b.MonProjetSpring11LoggingApplication  : voici mon message d'info
+2018-10-11 11:31:42.686  INFO 3624 --- [Thread-3] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@60dcc9fe: startup date [Thu Oct 11 11:31:42 WAT 2018]; root of context hierarchy
+2018-10-11 11:31:42.689  INFO 3624 --- [Thread-3] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-10-11 11:34:16.604  INFO 9356 --- [main] c.b.MonProjetSpring11LoggingApplication  : Starting MonProjetSpring11LoggingApplication on N-SAADAOUI-PRT with PID 9356 (C:\Users\nizar_saadaoui\Documents\workspace-jenkins\MonProjetSpring-11-Logging\target\classes started by NIZAR_SAADAOUI in C:\Users\nizar_saadaoui\Documents\workspace-jenkins\MonProjetSpring-11-Logging)
+2018-10-11 11:34:16.608  INFO 9356 --- [main] c.b.MonProjetSpring11LoggingApplication  : No active profile set, falling back to default profiles: default
+2018-10-11 11:34:16.649  INFO 9356 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@223f3642: startup date [Thu Oct 11 11:34:16 WAT 2018]; root of context hierarchy
+2018-10-11 11:34:17.089  WARN 9356 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static org.slf4j.Logger com.btk.MonProjetSpring11LoggingApplication.logger
+2018-10-11 11:34:17.220  INFO 9356 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-10-11 11:34:17.235  INFO 9356 --- [main] c.b.MonProjetSpring11LoggingApplication  : Started MonProjetSpring11LoggingApplication in 1.058 seconds (JVM running for 1.914)
+2018-10-11 11:34:17.237  INFO 9356 --- [main] c.b.MonProjetSpring11LoggingApplication  : voici mon message d'info
+2018-10-11 11:34:17.239  INFO 9356 --- [Thread-3] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@223f3642: startup date [Thu Oct 11 11:34:16 WAT 2018]; root of context hierarchy
+2018-10-11 11:34:17.241  INFO 9356 --- [Thread-3] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown

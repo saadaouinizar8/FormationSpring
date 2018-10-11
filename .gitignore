@@ -1,0 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+Servers/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+/.recommenders/
